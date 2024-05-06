@@ -1,0 +1,65 @@
+Exercício 1:
+Este exercício pede ao usuário para digitar um número e verifica se é maior que 10. Se for, exibe a mensagem "Número maior do que 10!", senão, exibe "Número menor ou igual a 10!".
+
+Exercício 2:
+Neste exercício, o programa solicita que o usuário insira dois números e, em seguida, calcula e exibe a soma desses dois números.
+
+Exercício 3:
+O programa pede ao usuário que insira dois números inteiros e verifica qual deles é o maior. Se forem iguais, informa que a sequência de números é inválida.
+
+Exercício 4:
+Este exercício solicita dois números ao usuário e, em seguida, calcula e exibe a soma, subtração, multiplicação e divisão desses números.
+
+Exercício 5:
+O programa pede ao usuário para inserir dois valores e, em seguida, troca os valores das variáveis. Ele mostra os valores originais e os valores trocados.
+
+Exercício 6:
+Neste exercício, o programa lê uma temperatura em graus Celsius e a converte em graus Fahrenheit usando a fórmula fornecida.
+
+Exercício 7:
+O programa solicita um número ao usuário e verifica se está no intervalo entre 100 e 200, exibindo uma mensagem apropriada.
+
+Exercício 8:
+Este exercício pede ao usuário para inserir um número e exibe uma mensagem dependendo se é maior ou igual a 50.
+
+Exercício 9:
+O programa solicita dois números e verifica se são iguais ou diferentes. Se forem diferentes, informa qual é o maior.
+
+Exercício 10:
+Neste exercício, o programa pede ao usuário para inserir um número de 1 a 5 e o escreve por extenso. Se o número estiver fora desse intervalo, exibe "Número inválido!".
+
+
+Exercício 11: Ordem Crescente
+Neste exercício, o programa solicita três números inteiros distintos ao usuário e os organiza em ordem crescente.
+
+Exercício 12: Mês Correspondente
+O programa pede ao usuário para inserir o número de um mês e, em seguida, retorna o nome do mês correspondente. Ele valida se o número do mês está dentro do intervalo de 1 a 12.
+
+Exercício 13: Operação Matemática
+Este exercício solicita ao usuário que insira dois números reais e um operador (+, -, *, /). O programa executa a operação correspondente e imprime o resultado. Ele também lida com casos de divisão por zero.
+
+Exercício 14: Termo de uma Progressão Aritmética
+Neste exercício, o programa solicita ao usuário o primeiro termo (a1), a razão (r) e o número do termo (n) de uma progressão aritmética. Em seguida, ele calcula e exibe o termo de ordem n.
+
+Exercício 15: Distância Entre Pontos
+O programa solicita as coordenadas de dois pontos no plano cartesiano e calcula a distância entre eles usando a fórmula da distância entre dois pontos.
+
+Exercício 16: Média Aritmética
+Este exercício pede ao usuário para inserir três notas de um aluno e calcula a média aritmética dessas notas.
+
+Exercício 17: Média Ponderada
+O programa solicita as três notas de um aluno e os pesos correspondentes a cada nota. Em seguida, calcula e exibe a média ponderada das notas.
+
+
+Exercício 18: Média Harmônica
+Neste exercício, o programa pede ao usuário para inserir três notas e calcula a média harmônica dessas notas. A média harmônica é calculada usando a fórmula 3 / ((1 / nota1) + (1 / nota2) + (1 / nota3)).
+
+Exercício 19: Volume de um Cilindro
+O programa solicita ao usuário que insira o raio e a altura de um cilindro e calcula o volume do cilindro usando a fórmula: volume = 3.14 * raio^2 * altura.
+
+Exercício 20: Litros de Combustível
+Este exercício pede ao usuário para inserir o tempo da viagem em horas e a velocidade média durante a viagem em km/h. Com esses dados, o programa calcula a quantidade de litros de combustível gasta na viagem, considerando que o veículo faz 12 km por litro.
+
+
+
+
